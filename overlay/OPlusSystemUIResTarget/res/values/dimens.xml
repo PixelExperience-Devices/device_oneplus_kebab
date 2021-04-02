@@ -23,6 +23,9 @@
     <!-- Margin on the left side of the carrier text on Keyguard -->
     <dimen name="keyguard_carrier_text_margin">@dimen/status_bar_padding_start</dimen>
 
+    <!-- Location on the screen of the center of the physical power button. -->
+    <dimen name="physical_power_button_center_screen_location_y">900px</dimen>
+    
     <!-- Alert Slider UI -->
     <dimen name="tri_state_down_dialog_position_l">433px</dimen>
     <dimen name="tri_state_middle_dialog_position_l">433px</dimen>
