@@ -410,7 +410,7 @@
      -->
        <item>540</item>
        <item>1910</item>
-       <item>92</item>
+       <item>87</item>
     </integer-array>
 
     <!-- The default refresh rate. Kebab manages this using the peak refresh rate setting, so set
