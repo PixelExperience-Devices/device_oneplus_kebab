@@ -10,7 +10,7 @@ include device/oneplus/sm8250-common/BoardConfigCommon.mk
 DEVICE_PATH := device/oneplus/kebab
 
 # Display
-TARGET_SCREEN_DENSITY := 450
+TARGET_SCREEN_DENSITY := 417
 
 # HIDL
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
